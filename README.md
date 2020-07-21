@@ -11,6 +11,6 @@
 - 💬 Ask me about how I deleted all my social media apps...
 - 📫 How to reach me: Drop a mail at dpatil.anagha@gmail.com or DM me on [**_LinkedIn_**](https://www.linkedin.com/in/anagha-patil-347a77152/)
 
-![Anagha's github stats](https://github-readme-stats.vercel.app/api?username=Anagha-2000&show_icons=true&theme=radical)
+![Anagha's github stats](https://github-readme-stats.vercel.app/api?username=Anagha-2000&show_icons=true&theme=gruvbox)
 
 
